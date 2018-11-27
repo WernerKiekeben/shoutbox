@@ -1,0 +1,1 @@
+Shoutbox created using PHP, JavaScript and CSS.
